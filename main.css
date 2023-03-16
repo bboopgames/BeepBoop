@@ -5911,7 +5911,7 @@ h5 small {
     -webkit-transition: all .2s linear;
     -o-transition: all .2s linear;
     transition: all .2s linear;
-    color: #000
+    color: #ff6975
 }
 
 .social-buttons a:hover {
@@ -6014,6 +6014,11 @@ label {
 .list-icons li {
     float: left;
     margin-right: 5px
+}
+
+iframe {
+    display: block;
+    border-style:none;
 }
 
 /*# sourceMappingURL=main.bc58148c.map*/
