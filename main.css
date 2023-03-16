@@ -6019,6 +6019,19 @@ label {
 iframe {
     display: block;
     border-style:none;
+    padding-bottom: 20px;
+}
+
+.screenshot {
+    padding-bottom: 20px;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-bottom: 0;
 }
 
 /*# sourceMappingURL=main.bc58148c.map*/
